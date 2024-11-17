@@ -1,1 +1,1 @@
-Desktop app to update Ogame Galaxytool.
+Desktop auto clicker to update Ogame Galaxytool.
